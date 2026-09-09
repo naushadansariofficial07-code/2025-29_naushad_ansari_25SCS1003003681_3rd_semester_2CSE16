@@ -5,7 +5,7 @@ The internship focused on practical web development, website analysis, UI/UX imp
 
 Internship Details
 Detail	Information
-Intern	Abdul Muspik
+Intern	Naushad Ansari
 Organization	InAmigos Foundation (IAF)
 Role	AI Web Development Intern
 Duration	26 June 2026 – 27 July 2026
